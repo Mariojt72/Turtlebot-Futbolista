@@ -1,6 +1,12 @@
 # Turtlebot-Futbolista
 
+Enlace al catkin_ws:
+
+https://drive.google.com/file/d/1TLPnmj1ieh550rdAv38lMvMtF19Ewi7M/view?usp=sharing
+
 Instrucciones de ejecución:
+
+0º Compilar el catkin_ws
 
 1º Ejecutar gazebo cargando el archivo playground.wolrd -> roslaunch turtlebot_gazebo turtlebot_world.launch world_file="Direccion del archivo"
 
